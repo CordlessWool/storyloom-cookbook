@@ -1,0 +1,16 @@
+{
+	"name": "cookbook",
+	"module": "index.ts",
+	"type": "module",
+	"scripts": {
+		"dev": "embodi dev",
+		"generate": "embodi generate",
+		"preview": "embodi preview"
+	},
+	"devDependencies": {
+		"@sveltejs/vite-plugin-svelte": "^3.1.1",
+		"embodi": "^0.7.0",
+		"sass": "^1.77.6",
+		"svelte": "^4.2.18"
+	}
+}
