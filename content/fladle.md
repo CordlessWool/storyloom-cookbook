@@ -2,6 +2,8 @@
 title: Flädle
 updateAt: 2024-02-06
 layout: Post
+tags:
+  - Schwäbisch
 ---
 
 Hier in Berlin heißen sie Eierkuchen, da Pfannkuchen anderweitig verwendet wird. Ich nenne sie lieber Flädle, dass erinnert mich an meine Oma, bei der es davor immer eine Suppe gab und danach zwei riesen Berge Flädle.
